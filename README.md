@@ -1,2 +1,2 @@
 # Regression-Analysis-Moringa-Core-W6
-Learning how to use various types of regressions in python
+Learning how to use both polynomial and lograthmic regressions in python to predict the scores for Home teams, Away teams and whether the gsme was a win, loss or draw for the home team
